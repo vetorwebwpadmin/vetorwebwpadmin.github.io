@@ -60109,7 +60109,7 @@ P(a,b){var s=null,r=t.w,q=b.S(r).f,p=this.d
 r=b.S(r).f.a.a<852?Z.atp(p):new Q.us(new G.u1(s),new P.Q(q.a.a,1000),s)
 return new M.uU(r,new M.EM(new K.B2(s),new K.D_(s),s),new Z.CZ(s),$.aaV(),p)}}
 K.B2.prototype={
-P(a,b){var s,r,q,p,o,n,m=null,l=t.w,k=b.S(l).f.a,j=k.a,i=j/2,h=M.cs(C.wc,L.f6("Because you deserve better",m,m,m,B.em($.ff(),14,C.ae,m,m),m,m),m,m,m,m,new V.aF(0,0,0,15),m,m),g=H.b([Q.cz(m,m,"Get noticed for "),Q.cz(m,B.em($.ff(),m,m,m,m),"who"),Q.cz(m,m," you are "),Q.cz(m,B.em($.ff(),m,m,m,m),"not what"),Q.cz(m,m," you look like.")],t.B2)
+P(a,b){var s,r,q,p,o,n,m=null,l=t.w,k=b.S(l).f.a,j=k.a,i=j/2,h=M.cs(C.wc,L.f6("Because you deserve better",m,m,m,B.em($.ff(),14,C.ae,m,m),m,m),m,m,m,m,new V.aF(0,0,0,15),m,m),g=H.b([Q.cz(m,m,"Preste aten\xe7\xe3o que "),Q.cz(m,B.em($.ff(),m,m,m,m),"who"),Q.cz(m,m," you are "),Q.cz(m,B.em($.ff(),m,m,m,m),"not what"),Q.cz(m,m," you look like.")],t.B2)
 g=T.EQ(m,m,C.bb,!0,m,Q.cz(g,B.em(m,b.S(l).f.a.a>=852&&b.S(l).f.a.a<=1200?38:58,C.ae,m,m),m),C.X,m,m,1,C.ak)
 s=L.Gl(L.f6(u.X,m,m,m,B.em(m,20,m,1.5,1.5),m,m),!1,!1,!1,!0)
 r=T.cZ(m,20,m)
